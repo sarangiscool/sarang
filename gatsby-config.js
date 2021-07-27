@@ -146,5 +146,5 @@ module.exports = {
       },
     },
   ],
-  pathPrefix: '/',
+  pathPrefix: '/webpage',
 };
